@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently majoring in **Software Engineering @Tongji University**
 
-- 🌱 I’m currently learning **Data Analysis and Mining, Human-Computer Interaction**
+- 🌱 I’m currently focusing on **Linux Kernel and Virtualization**
 
 - 📫 How to reach me **2277861660@qq.com**
 
