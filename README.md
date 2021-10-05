@@ -12,7 +12,7 @@
         alt="frezcirno" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Main languages and tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -22,10 +22,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
@@ -34,17 +30,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" />
     </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://fsharp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg"
-            alt="fsharp" width="40" height="40" />
-    </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
             width="40" height="40" />
+    </a>
+    <a href="https://fsharp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg"
+            alt="fsharp" width="40" height="40" />
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -56,16 +56,9 @@
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
-    </a>
 </p>
 
-<h3 align="left">Skill Points:</h3>
+<h3 align="left">And some cool stuff I've used:</h3>
 <!-- <h4 align="left">Front End:</h4> -->
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank">
@@ -107,9 +100,16 @@
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
             alt="bulma" width="40" height="40" />
     </a>
+    <a href="https://heroku.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+    </a>
 </p>
 <!-- <h4 align="left">Back End and Database:</h4> -->
 <p align="left">
+    <a href="https://www.nginx.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
+            width="40" height="40" />
+    </a>
     <a href="https://spring.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
@@ -181,12 +181,11 @@
     </a>
 </p>
 
-<p>
+<h3 align="left">Statistics:</h3>
+<p align="left">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=frezcirno&layout=compact&langs_count=10&show_icons=true&locale=en"
         alt="frezcirno" />
-</p>
-
-<p>&nbsp;<img align="center"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=frezcirno&show_icons=true&locale=en&hide_title=true" alt="frezcirno" />
 </p>
