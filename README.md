@@ -12,7 +12,10 @@
         alt="frezcirno" />
 </p>
 
+<img style="float: right;" align="right" src="https://github-readme-stats.vercel.app/api?username=frezcirno&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=en&hide_title=true" alt="frezcirno" />
+
 <h3 align="left">Main languages and tools:</h3>
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -58,7 +61,12 @@
     </a>
 </p>
 
+<br />
+
+<img style="float: right;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frezcirno&layout=compact&langs_count=10&show_icons=true&locale=en" alt="frezcirno" />
+
 <h3 align="left">And some cool stuff I've used:</h3>
+
 <!-- <h4 align="left">Front End:</h4> -->
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank">
@@ -179,13 +187,4 @@
     <a href="hexo.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40" />
     </a>
-</p>
-
-<h3 align="left">Statistics:</h3>
-<p align="left">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=frezcirno&layout=compact&langs_count=10&show_icons=true&locale=en"
-        alt="frezcirno" />
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=frezcirno&show_icons=true&locale=en&hide_title=true" alt="frezcirno" />
 </p>
