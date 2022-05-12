@@ -3,20 +3,20 @@
 
 - 🔭 I’m currently majoring in **Software Engineering @Tongji University**
 
-- 🌱 I’m currently focusing on **Linux Kernel and Virtualization**
+- 🌱 I’m currently focusing on **AI and Program Comprehension**
 
 - 📫 How to reach me **2277861660@qq.com**
 
-<p align="left" hidden>
+<p hidden>
     <img src="https://komarev.com/ghpvc/?username=frezcirno&label=Profile%20views&color=0e75b6&style=flat"
         alt="frezcirno" />
 </p>
 
 <img style="float: right;" align="right" src="https://github-readme-stats.vercel.app/api?username=frezcirno&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=en&hide_title=true" alt="frezcirno" />
 
-<h3 align="left">Main languages and tools:</h3>
+<h3>Main languages and tools:</h3>
 
-<p align="left">
+<p>
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
@@ -41,14 +41,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://developer.apple.com/swift/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" />
-    </a>
-    <a href="https://fsharp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg"
-            alt="fsharp" width="40" height="40" />
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" />
@@ -59,16 +51,33 @@
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit_learn"
+            width="64" height="40" />
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+    </a>
+    <!-- <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="numpy"
+            width="84" height="40" />
+    </a> -->
+    <!-- <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="84" height="40" />
+    </a> -->
 </p>
 
 <br />
 
 <img style="float: right;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frezcirno&layout=compact&langs_count=10&show_icons=true&locale=en" alt="frezcirno" />
 
-<h3 align="left">And some cool stuff I've used:</h3>
+<h3>And some cool stuff I've used:</h3>
 
-<!-- <h4 align="left">Front End:</h4> -->
-<p align="left">
+<!-- <h4>Front End:</h4> -->
+<p>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
@@ -111,9 +120,6 @@
     <a href="https://heroku.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
     </a>
-</p>
-<!-- <h4 align="left">Back End and Database:</h4> -->
-<p align="left">
     <a href="https://www.nginx.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
             width="40" height="40" />
@@ -156,32 +162,19 @@
     <a href="https://www.rabbitmq.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
     </a>
-</p>
-<!-- <h4 align="left">Data Analysis:</h4> -->
-<p align="left">
-    <a href="https://numpy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="numpy"
-            width="84" height="40" />
-    </a>
-    <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="84" height="40" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667"
-            alt="pandas" width="84" height="40" />
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+    <a href="https://developer.apple.com/swift/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
             width="40" height="40" />
     </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+    <a href="https://fsharp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg"
+            alt="fsharp" width="40" height="40" />
     </a>
     <a href="https://opencv.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
     <a href="https://www.qt.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
+        <img src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" alt="qt" width="40"
             height="40" />
     </a>
     <a href="hexo.io/" target="_blank">
