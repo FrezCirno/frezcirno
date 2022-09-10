@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm frezcirno</h1>
 <h3 align="center">Tech-lover, Coder, Student</h3>
 
-- 🔭 I’m currently majoring in **Software Engineering @Tongji University**
+- 🔭 I’m currently majoring in **Software Engineering @Zhejiang University**
 
 - 🌱 I’m currently focusing on **AI and Program Comprehension**
 
