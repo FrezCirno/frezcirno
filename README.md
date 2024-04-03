@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm frezcirno</h1>
-<h3 align="center">Tech-lover, Coder, Student</h3>
+<h3 align="center">Tech-lover, Programmer, Student</h3>
 
 - 🔭 I’m currently majoring in **Software Engineering @Zhejiang University**
 
