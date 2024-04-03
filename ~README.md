@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently focusing on **AI and Program Comprehension**
 
-- 📫 How to reach me **2277861660@qq.com**
+- 📫 How to reach me **tanzixuan.me at gmail.com**
 
 <p hidden>
     <img src="https://komarev.com/ghpvc/?username=frezcirno&label=Profile%20views&color=0e75b6&style=flat"
